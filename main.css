@@ -23,11 +23,9 @@ header h1 {
     box-shadow: 0 0 12px rgba(255, 42, 157, 0.5);
     text-align: center;}
 
-h1 { color: #ffffff;
-    font-size: 2rem;
-    font-family: 'Orbitron'}
+    header h1 a:visited{color: #ff82c5}
 
-h2 { color: #ffffff;
+h1 h2 { color: #ffffff;
     font-size: 2rem;
     font-family: 'Orbitron'}
 
@@ -64,4 +62,6 @@ a:hover {
 a:visited {
   color: #bf0079;
 }
+
+
 
