@@ -23,7 +23,7 @@ header h1 {
     box-shadow: 0 0 12px rgba(255, 42, 157, 0.5);
     text-align: center;}
 
-    header h1 a:visited{color: #ff82c5}
+header h1 a:visited{color: #ff82c5}
 
 h1 h2 { color: #ffffff;
     font-size: 2rem;
