@@ -128,10 +128,25 @@ a:visited {
 }
 
 .leftColumn {
-  flex: 1;
+    flex: 1;
+    padding: 20px;
+    background-color: #181818;
+    margin: 20px;
+    line-height: 1.7
 }
 
-.leftColumn img{
+.leftColumnForImg {
+    display: flex;
+    flex: 1;
+    padding: 20px;
+    background-color: #181818;
+    margin: 20px;
+    line-height: 1.7;
+    justify-content: center;
+    align-content: center;
+}
+
+.leftColumnForImg img{
     display: block;
     object-fit: cover;
     width: 600px;
@@ -139,7 +154,11 @@ a:visited {
 }
 
 .rightColumn {
-  flex: 1;
+    flex: 1;
+    padding: 20px;
+    background-color: #181818;
+    margin: 20px;
+    line-height: 1.7
 }
 
 .centerText {
